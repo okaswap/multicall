@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "multic4ll"
+name = "multicall"
 version = "0.0.1"
 description = "aggregate results from multiple ethereum contract calls"
 authors = ["banteg"]
