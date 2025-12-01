@@ -1,0 +1,7 @@
+dist/*
+.pythonlibs/
+repl
+replit.nix
+.replit
+awesome.nix
+pycompy.nix
